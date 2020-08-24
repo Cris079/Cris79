@@ -1,0 +1,64 @@
+# Cris79 
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Sistema web Panaderia San Marcos</title>
+</head>
+<body>
+    Contenido e informacion>
+</body>
+</html>
+<html>
+     <head>
+         <title>Sistema web Panaderia San Marcos</title>
+       </head>
+      <body>
+          <p>
+La panaderia San Marcos ofrece buena calidad de productos a sus consumidores, donde se ofrece buen servicio al cliente y es con buena presentacion los productos
+          </p>
+       </body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hipervinculos</title>
+</head>
+<body>
+    <a href="mipagian.html" target="_black">Ir a mi pagina web</a> <br />
+</body>
+</html>
+<html>
+<head>
+    <title>Tablas</title>
+</head>
+<body>
+   <table border="1" cellpading="3" cellspacing="2" width="400">
+        <tr>
+             <th>Titulo 1</th>
+             <th>Titulo 2</th>
+        </tr>
+        <tr align="center" valign="middle" bgcolor="·FF6600">            
+             <td>contenido 1</td>
+             <td>contenido 2</td>
+        </tr>
+        <tr>
+             <td align="right" height="40" valign="middle" colspan="2" bgcolor="·C0C0C0">contenido 3</td>
+             <td>contenido 4</td>
+        </tr>
+   </table>
+</body>
+</html>                 
+<html>
+    <head><title>Pagina Web</title></head>
+    <body>
+        <header style="width:800px; height:200px; background:·CCCCCC">
+            Aqui ira el logo
+        </header>
+        <nav style="width:200px; height:400px; float:left; background:·FFFF99">
+            Aqui ira el menu
+        </nav>
+        <section style="width:600px; height:400px; float:left; background: ·7777FF">
+            Aqui ira el contenido
+        </section>           
+    </body>
+</html>    
